@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    position: sticky;
+    vertical-align: middle;
+    a {
+        text-decoration: none;
+        h1 {
+            margin: 0%;
+            font-size: xx-large;
+            font-family: "Bebas Neue", sans-serif;
+            font-weight: 400;
+            color: var(--green);
+        }
+    }
+}
